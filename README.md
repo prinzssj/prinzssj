@@ -25,5 +25,5 @@
 <!-- PROYECTS:START -->
 - Hanged Game on HTML [GitHub Repository](https://github.com/git-vscode/Hanged-Man-Game).
 - Discord BOT with JavaScript **Outdated Version**
-- Password generator with Python **Coming Soon Link...**
+- Password generator with Python [Github Repository](https://github.com/git-vscode/password-generator).
 <!-- PROYECTS:END -->
